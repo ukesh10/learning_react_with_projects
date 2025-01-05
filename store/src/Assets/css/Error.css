@@ -1,0 +1,22 @@
+.error-container{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    height: 200px;
+}
+
+.error-button{
+    background-color: rgb(149, 61, 225);
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 8px;
+    font-size: 13px;
+    border-radius: 2%;
+}
+
+.error-button:hover{
+    border:2px solid rgb(149, 61, 225);
+    background-color: white;
+    color: rgb(149, 61, 225);
+}

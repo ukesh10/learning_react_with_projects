@@ -1,0 +1,14 @@
+.amount-toggle{
+    display: flex;
+    gap: 1.5rem;
+}
+.cart-button{
+    margin-bottom: 12px;
+}
+.amount-toggle-btn{
+    border: none;
+    background-color: white;
+}
+.add-to-cart-container{
+    margin-bottom: 12px;
+}

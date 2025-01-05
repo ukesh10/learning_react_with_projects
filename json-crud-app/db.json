@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "ritesh",
+      "email": "ukes@cap",
+      "phone": "8733242432"
+    },
+    {
+      "name": "vijay",
+      "email": "vijay@gmial.com",
+      "phone": "9788686",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Srikanth Reddy",
+      "email": "srikanth@cap.com",
+      "phone": "467769",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "ukesh sharma",
+      "email": "ukesh123@gmail.com",
+      "phone": "694168",
+      "active": true,
+      "id": 4
+    }
+  ]
+}

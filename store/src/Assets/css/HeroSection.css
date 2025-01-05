@@ -1,0 +1,46 @@
+.row{
+  margin-top: 66px;
+  margin-left: 155px;
+}
+.hero-img{
+  width: 320px;
+}
+.button-hero{
+  background-color: rgb(149, 61, 225);
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  padding: 8px;
+  font-size: 13px;
+  border-radius: 2%;
+}
+.button-hero:hover{
+    border:2px solid rgb(149, 61, 225);
+    background-color: white;
+    color: rgb(149, 61, 225);
+}
+.intro-data{
+  text-transform: uppercase;
+  color: rgb(149, 61, 225);
+}
+.h1-name{
+  margin-top: -16px;
+}
+.hero-section-data{
+  margin-top: 16px;
+}
+
+.figure {
+  position: relative;
+}
+
+.figure::after {
+  content: "";
+  width: 60%;
+  height: 80%;
+  background-color: rgba(81, 56, 238, 0.4);
+  position: absolute;
+  left: 50%;
+  top: -1.5rem;
+  z-index: -1;
+}

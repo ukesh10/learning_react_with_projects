@@ -1,0 +1,68 @@
+nav{
+    display: flex;
+    background-color: rgba(201, 196, 235, 0.4);
+    height: 55px;
+    text-transform: uppercase;
+}
+img{
+    margin: 8px 0 0 16px;
+    width: 140px;
+}
+
+
+.nav-item{
+    margin-left: 315px;
+}
+.nav-item ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    padding: 16px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(149, 61, 225);
+}
+.welcome{
+    color: rgb(131, 129, 129);
+    text-transform: capitalize;
+}
+.button{
+    margin-top: -7px;
+}
+.button button{
+    background-color: rgb(149, 61, 225);
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 8px;
+    font-size: 13px;
+    border-radius: 2%;
+}
+.button button:hover{
+    border:2px solid rgb(149, 61, 225);
+    background-color: rgba(201, 196, 235, 0.4);
+    color: rgb(149, 61, 225);
+}
+.number{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(149, 61, 225);
+    background-color: rgb(149, 61, 225);
+    border-radius: 50%;
+    top: 1.8%;
+    left: 96.6%;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+.nav-item-active{
+    color: rgb(149, 61, 225);
+}

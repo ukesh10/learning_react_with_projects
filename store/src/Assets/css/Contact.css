@@ -1,0 +1,33 @@
+.contact-container{
+    text-align: center;
+    margin-top: 56px;
+}
+.form-control{
+    width: 30%;
+    margin-left: 40%;
+}
+.form-button{
+    background-color: rgb(149, 61, 225);
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 8px;
+    font-size: 13px;
+    border-radius: 2%;
+}
+.contact-submit{
+    margin-left: -190px;
+}
+
+.form-button:hover{
+    border:2px solid rgb(149, 61, 225);
+    background-color: white;
+    color: rgb(149, 61, 225);
+}
+.contact-header{
+    margin-bottom: 22px;
+}
+.contact-form{
+    margin-top: 22px;
+    margin-bottom: 22px;
+}

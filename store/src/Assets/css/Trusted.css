@@ -1,0 +1,20 @@
+.brand-container{
+    height: 200px;
+    background-color: rgba(201, 196, 235, 0.4);
+    margin-top: 66px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.brand-section-slider{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+}
+
+.brand-img{
+    width: 40%;
+}

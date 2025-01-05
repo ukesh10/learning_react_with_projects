@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "address": "12 Valley of kings, Geneva",
+        "country": "Switzerland",
+        "description": "A superb detached Victorian property",
+        "price": 900000,
+        "photo": "1"
+    },
+    {
+        "id": 2,
+        "address": "Silver Oaks Apt, VijayNagar",
+        "country": "India",
+        "description": "An area of Tech-related fields",
+        "price": 500000,
+        "photo": "2"
+    },
+    {
+        "id": 3,
+        "address": "Jalpa-chowk, Kathmandu",
+        "country": "Nepal",
+        "description": "A place rich in cultural heritages",
+        "price": 300000,
+        "photo": "3"
+    },
+    {
+        "id": 4,
+        "address": "Bunes Aires",
+        "country": "Argentina",
+        "description": "A birthplace of Legend Lionel Andres Messi",
+        "price": 1000000,
+        "photo": "4"
+    }
+
+]
